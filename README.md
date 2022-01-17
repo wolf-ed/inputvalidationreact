@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Technologies](#Technologies)
 
 ## Introduction
-This is a one page react app to check input introduced and alert if the input is not valid.
+This is a one page react app to check input introduced by the user and alert if the input is not valid.
 
 ## Technologies
 
