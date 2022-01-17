@@ -1,0 +1,27 @@
+
+.user-list {
+    background-color: #45A3F5;
+    max-width: 95%;
+    padding: 1rem;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+.user div {
+    margin: 0.5rem auto;
+}
+
+.users ul{
+    list-style: none;
+    padding: 0;
+  
+}
+
+.users li {
+    margin: 0.5rem 0rem;
+}
+
+@media (max-width: 40rem) {
+    .user-list{
+        width: 20rem;
+    }
+}
